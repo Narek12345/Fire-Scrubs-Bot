@@ -1,0 +1,11 @@
+# DB.
+db.db
+
+# Virtual environment.
+venv
+
+# Python byte-code.
+__pycache__
+
+# Config.
+config.py
